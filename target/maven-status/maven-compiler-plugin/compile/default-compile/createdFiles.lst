@@ -1,0 +1,7 @@
+com\example\ExercicioRevisao\assembler\ProdutoAssembler.class
+com\example\ExercicioRevisao\exception\ProdutoNotFoundException.class
+com\example\ExercicioRevisao\model\Produto.class
+com\example\ExercicioRevisao\ExercicioRevisaoApplication.class
+com\example\ExercicioRevisao\controller\ProdutoController.class
+com\example\ExercicioRevisao\repository\ProdutoRepository.class
+com\example\ExercicioRevisao\service\ProdutoService.class
